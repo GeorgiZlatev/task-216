@@ -45,3 +45,8 @@ html {
   margin-top: 50px;
   text-align: center;
 }
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
